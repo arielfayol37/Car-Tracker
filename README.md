@@ -171,7 +171,3 @@ solution/
 - Robust tracking through occlusions
 - Consistent ID assignment
 - Accurate trajectory prediction
-
-## Contributing
-
-This project demonstrates the effectiveness of combining CNN-based detection with RNN-based prediction for robust multi-object tracking. The architecture can be extended to other tracking applications by adapting the model architectures and training procedures.
