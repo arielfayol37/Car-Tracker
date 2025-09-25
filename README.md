@@ -1,7 +1,9 @@
 # Car Tracker 
 
 A robust multi-object tracking system for detecting and tracking vehicles in roundabout video footage using a combination of Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN).
+
 [Watch Demo](https://www.youtube.com/watch?v=ti0oXUm4-JU)
+
 [Read paper](https://arielfayol.com/view_pdf/car_tracking)
 
 ## Overview
